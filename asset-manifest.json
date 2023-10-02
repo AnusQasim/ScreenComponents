@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/screenComponents/static/css/main.e6c13ad2.css",
+    "main.js": "/screenComponents/static/js/main.6082e060.js",
+    "static/js/787.598a854b.chunk.js": "/screenComponents/static/js/787.598a854b.chunk.js",
+    "index.html": "/screenComponents/index.html",
+    "main.e6c13ad2.css.map": "/screenComponents/static/css/main.e6c13ad2.css.map",
+    "main.6082e060.js.map": "/screenComponents/static/js/main.6082e060.js.map",
+    "787.598a854b.chunk.js.map": "/screenComponents/static/js/787.598a854b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6082e060.js"
+  ]
+}
